@@ -4,15 +4,29 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+We invite you to join the IEEE VIS 2024 workshop on VISions of the Future: Sustainable Practices within Visualization and Physicalization This workshop will weave together two disparate strands of ‘what can visualisation do for climate research’ and ‘what can sustainability research teach the field of visualisation’ into a coherent sustainability agenda for the field of Visualization broadly. The aim is to facilitate a space for researchers to collectively reflect on futures where the research and practice of Visualization harmoniously integrate with the Earth and its ecology.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+## Submission Details
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+We invite submission of research papers, pictorials, and provocations between 2 and 4 pages long in the standard VIS submission format, excluding references, with length commiserate with content. Relevant topics might include: interrogations into the sustainability of the relationship between the academic and practitioner VIS communities, the use of visualizations for environmental storytelling, the environmental impact of the increasingly high use of ML in visualization applications, the role of new materials in physicalization among others. Unlike in other visualization workshops, tThe goal of these submissions will be to elicit dynamic community interaction and discussion during the workshop, rather than serve as formal finished work.
 
 
-[jekyll-organization]: https://github.com/jekyll
+Submission deadline: July 1st, 2024
+
+Notifications: July 30, 2024
+
+
+## Workshop Organizers
+
+Georgia Panagiotidou, King's College UK
+
+Derya Akbaba, Linköping University, Sweden
+
+Sarah Hayes, Munster Technological University, Ireland
+
+Tatiana Losev, Simon Fraser University, Canada
+
+Andrew McNutt, University of Utah, USA
+
+Luiz Morais, Universidade Federal de Pernambuco, Brazil
+
