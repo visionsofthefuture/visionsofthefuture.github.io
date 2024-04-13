@@ -4,7 +4,7 @@ layout: default
 ---
 # Sustainable Practices within Visualization and Physicalization
 
-We invite you to join the [IEEEVIS 2024](https://ieeevis.org/year/2024/welcome ) Workshop on VISions of the Future: Sustainable Practices within Visualization and Physicalization This workshop will weave together two disparate strands of ‘what can visualisation do for climate research’ and ‘what can sustainability research teach the field of visualisation’ into a coherent sustainability agenda for the field of Visualization broadly. The aim is to facilitate a space for researchers to collectively reflect on futures where the research and practice of Visualization harmoniously integrate with the Earth and its ecology.
+We invite you to join the [IEEEVIS 2024](https://ieeevis.org/year/2024/welcome ) Workshop on VISions of the Future: Sustainable Practices within Visualization and Physicalization. This workshop will weave together two disparate strands of ‘what can visualisation do for climate research’ and ‘what can sustainability research teach the field of visualisation’ into a coherent sustainability agenda for the field of Visualization broadly. The aim is to facilitate a space for researchers to collectively reflect on futures where the research and practice of Visualization harmoniously integrate with the Earth and its ecology.
 
 ## Submission Details
 
