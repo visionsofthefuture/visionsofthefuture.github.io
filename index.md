@@ -1,8 +1,6 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
-layout: home
+layout: default
 ---
 # VISions of the Future: Sustainable Practices within Visualization and Physicalization
 
@@ -10,25 +8,25 @@ We invite you to join the IEEE VIS 2024 workshop on VISions of the Future: Susta
 
 ## Submission Details
 
-We invite submission of research papers, pictorials, and provocations between 2 and 4 pages long in the standard VIS submission format, excluding references, with length commiserate with content. Relevant topics might include: interrogations into the sustainability of the relationship between the academic and practitioner VIS communities, the use of visualizations for environmental storytelling, the environmental impact of the increasingly high use of ML in visualization applications, the role of new materials in physicalization among others. Unlike in other visualization workshops, tThe goal of these submissions will be to elicit dynamic community interaction and discussion during the workshop, rather than serve as formal finished work.
+We invite submission of research papers, pictorials, and provocations between 2 and 4 pages long in the standard VIS submission format, excluding references, with length commiserate with content. Relevant topics might include: interrogations into the sustainability of the relationship between the academic and practitioner VIS communities, the use of visualizations for environmental storytelling, the environmental impact of the increasingly high use of ML in visualization applications, the role of new materials in physicalization among others. Unlike in other visualization workshops, the goal of these submissions will be to elicit dynamic community interaction and discussion during the workshop, rather than serve as formal finished work.
 
 
-Submission deadline: July 1st, 2024
+Submission deadline: **July 1st, 2024**
 
 Notifications: July 30, 2024
 
 
 ## Workshop Organizers
 
-Georgia Panagiotidou, King's College UK
+(Georgia Panagiotidou)[https://www.kcl.ac.uk/people/georgia-panagiotidou], King's College UK
 
-Derya Akbaba, Linköping University, Sweden
+(Derya Akbaba)[https://gotdairyya.github.io/], Linköping University, Sweden
 
-Sarah Hayes, Munster Technological University, Ireland
+(Sarah Hayes)[https://sarah-hayes.com/sample-page-2/], Munster Technological University, Ireland
 
-Tatiana Losev, Simon Fraser University, Canada
+(Tatiana Losev)[https://www.tatianalosev.com/], Simon Fraser University, Canada
 
-Andrew McNutt, University of Utah, USA
+(Andrew McNutt)[https://www.mcnutt.in/], University of Utah, USA
 
-Luiz Morais, Universidade Federal de Pernambuco, Brazil
+(Luiz Morais)[https://luizaugustomm.github.io/], Universidade Federal de Pernambuco, Brazil
 
