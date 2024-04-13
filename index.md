@@ -4,6 +4,7 @@
 
 layout: home
 ---
+# VISions of the Future: Sustainable Practices within Visualization and Physicalization
 
 We invite you to join the IEEE VIS 2024 workshop on VISions of the Future: Sustainable Practices within Visualization and Physicalization This workshop will weave together two disparate strands of ‘what can visualisation do for climate research’ and ‘what can sustainability research teach the field of visualisation’ into a coherent sustainability agenda for the field of Visualization broadly. The aim is to facilitate a space for researchers to collectively reflect on futures where the research and practice of Visualization harmoniously integrate with the Earth and its ecology.
 
