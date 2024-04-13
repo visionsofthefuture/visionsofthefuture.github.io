@@ -18,15 +18,15 @@ Notifications: July 30, 2024
 
 ## Workshop Organizers
 
-(Georgia Panagiotidou)[https://www.kcl.ac.uk/people/georgia-panagiotidou], King's College UK
+[Georgia Panagiotidou](https://www.kcl.ac.uk/people/georgia-panagiotidou), King's College UK
 
-(Derya Akbaba)[https://gotdairyya.github.io/], Linköping University, Sweden
+[Derya Akbaba](https://gotdairyya.github.io/), Linköping University, Sweden
 
-(Sarah Hayes)[https://sarah-hayes.com/sample-page-2/], Munster Technological University, Ireland
+[Sarah Hayes](https://sarah-hayes.com/sample-page-2/), Munster Technological University, Ireland
 
-(Tatiana Losev)[https://www.tatianalosev.com/], Simon Fraser University, Canada
+[Tatiana Losev](https://www.tatianalosev.com/), Simon Fraser University, Canada
 
-(Andrew McNutt)[https://www.mcnutt.in/], University of Utah, USA
+[Andrew McNutt](https://www.mcnutt.in/), University of Utah, USA
 
-(Luiz Morais)[https://luizaugustomm.github.io/], Universidade Federal de Pernambuco, Brazil
+[Luiz Morais](https://luizaugustomm.github.io/), Universidade Federal de Pernambuco, Brazil
 
