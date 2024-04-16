@@ -14,6 +14,7 @@ We invite submission of research papers, pictorials, and provocations between 2 
 Submission deadline: **July 1st, 2024**  
 Notifications: **July 30, 2024**  
 
+Contact us here: visionsofthefuture[at]googlegroups.com
 
 ## Workshop Organizers
 
