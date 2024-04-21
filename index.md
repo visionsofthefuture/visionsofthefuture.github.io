@@ -10,6 +10,9 @@ We invite you to join the [IEEEVIS 2024](https://ieeevis.org/year/2024/welcome )
 
 We invite submission of research papers, pictorials, and provocations between 2 and 4 pages long in the standard VIS submission format, excluding references, with length commiserate with content. Relevant topics might include: interrogations into the sustainability of the relationship between the academic and practitioner VIS communities, the use of visualizations for environmental storytelling, the environmental impact of the increasingly high use of ML in visualization applications, the role of new materials in physicalization among others. We especially welcome critical data and visualization perspectives on sustainability, such as Indigenous, ecofeminist, post-colonial, and post-humanist perspectives. 
 
+Submission deadline: **July 1st, 2024**  
+Notifications: **July 30, 2024**  
+
 Considerations for sustainable visualization ecosystems:  
 * How might information visualization support sustainability goals such as environmental stewardship, climate resiliency, community health and wellness, housing, or food security?
 * How has data visualization been used in citizen science or grassroots approaches to support sustainability efforts?
@@ -19,9 +22,6 @@ Considerations for sustainable visualization ecosystems:
 * What does it mean to design data visualization for the sustainability of communities of people? 
 * How might visualization be reimagined to accommodate a wide range of sustainability goals?
 
-
-Submission deadline: **July 1st, 2024**  
-Notifications: **July 30, 2024**  
 
 Contact us here: visionsofthefuture[at]googlegroups.com
 
