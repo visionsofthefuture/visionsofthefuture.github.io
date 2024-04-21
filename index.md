@@ -13,6 +13,10 @@ We invite submission of research papers, pictorials, and provocations between 2 
 Submission deadline: **July 1st, 2024**  
 Notifications: **July 30, 2024**  
 
+Contact us here: visionsofthefuture[at]googlegroups.com
+
+## Example Topics
+
 Considerations for sustainable visualization ecosystems:  
 * How might information visualization support sustainability goals such as environmental stewardship, climate resiliency, community health and wellness, housing, or food security?
 * How has data visualization been used in citizen science or grassroots approaches to support sustainability efforts?
@@ -22,8 +26,10 @@ Considerations for sustainable visualization ecosystems:
 * What does it mean to design data visualization for the sustainability of communities of people? 
 * How might visualization be reimagined to accommodate a wide range of sustainability goals?
 
-
-Contact us here: visionsofthefuture[at]googlegroups.com
+Considerations for sustainable data:
+* What is/are sustainable data?
+* How do different considerations of sustainability shape the data pipeline?
+* Which data are prioritized for sustainability?
 
 ## Workshop Organizers
 
