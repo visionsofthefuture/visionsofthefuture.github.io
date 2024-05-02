@@ -8,7 +8,9 @@ We invite you to join the [IEEEVIS 2024](https://ieeevis.org/year/2024/welcome )
 
 ## Submission Details
 
-We invite submission of research papers, pictorials, and provocations between 2 and 4 pages long in the standard VIS submission format, excluding references, with length commensurate with content. Relevant topics might include: interrogations into the sustainability of the relationship between the academic and practitioner VIS communities, the use of visualizations for environmental storytelling, the environmental impact of the increasingly high use of machine learning in visualization applications, the role of new materials in physicalization among others. We especially welcome critical data and visualization perspectives on sustainability, such as Indigenous, ecofeminist, post-colonial, and post-humanist perspectives. 
+We invite submission of research papers, pictorials, and provocations between 2 and 4 pages long in the [standard VIS submission format](https://tc.computer.org/vgtc/publications/conference/), excluding references, with length commensurate with content. Relevant topics might include: interrogations into the sustainability of the relationship between the academic and practitioner VIS communities, the use of visualizations for environmental storytelling, the environmental impact of the increasingly high use of machine learning in visualization applications, the role of new materials in physicalization among others. We especially welcome critical data and visualization perspectives on sustainability, such as Indigenous, ecofeminist, post-colonial, and post-humanist perspectives. 
+
+Submissions should be made [via PCS](https://new.precisionconference.com/).
 
 Submission deadline: **July 1st, 2024**  
 Notifications: **July 30, 2024**  
