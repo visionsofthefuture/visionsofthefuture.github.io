@@ -6,6 +6,9 @@ layout: default
 
 We invite you to join the [IEEEVIS 2024](https://ieeevis.org/year/2024/welcome ) Workshop on VISions of the Future: Sustainable Practices within Visualization and Physicalization. This workshop will weave together two disparate strands of ‘what can visualization do for climate research’ and ‘what can sustainability research teach the field of visualization’ into a coherent sustainability agenda for the field of Visualization broadly. The aim is to facilitate a space for researchers to collectively reflect on futures where the research and practice of Visualization harmoniously integrate with the Earth and its ecology.
 
+## Keynote Speaker
+<img src="assets/img/keynote.png" width="500px">
+
 ## Submission Details
 
 We invite submission of research papers, pictorials, and provocations between 2 and 4 pages long in the [standard VIS submission format](https://tc.computer.org/vgtc/publications/conference/), excluding references, with length commensurate with content. Relevant topics might include: interrogations into the sustainability of the relationship between the academic and practitioner VIS communities, the use of visualizations for environmental storytelling, the environmental impact of the increasingly high use of machine learning in visualization applications, the role of new materials in physicalization among others. We especially welcome critical data and visualization perspectives on sustainability, such as Indigenous, ecofeminist, post-colonial, and post-humanist perspectives. 
