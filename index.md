@@ -43,7 +43,7 @@ Submissions should be made [via PCS](https://new.precisionconference.com/).
 Submission deadline: **July 12th, 2024**  
 Notifications: **July 30, 2024**
 
-Contact us here: visionsofthefuture[at]googlegroups.com
+Contact us here: georgia.panagiotidou@kcl.ac.uk
 
 ## Example Topics
 
