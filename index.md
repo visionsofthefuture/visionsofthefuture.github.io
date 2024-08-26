@@ -24,13 +24,13 @@ Submissions/abstracts to be posted soon! (After the camera ready deadline, **Aug
 
 | Time         | Activity                                  |
 | ------------ | ----------------------------------------- |
-| 14:05 —14:15 | Opening                                   |
-| 14:15 —14:50 | Keynote                                   |
-| 15:50 —15:15 | Group brainstorm - Sustainability for VIS |
-| 15:15 —15:45 | Coffee Break                              |
-| 15:45 —16:20 | Submission Presentations                  |
-| 16:20 —16:45 | Group brainstorm - VIS in Sustainability  |
-| 16:45 —17:00 | Wrap-up discussion & next steps           |
+| 13:35 —13:45 | Opening                                   |
+| 14:45 —14:30 | Keynote                                   |
+| 14:30 —14:45 | Group brainstorm - Sustainability for VIS |
+| 14:45 —15:15 | Coffee Break                              |
+| 15:15 —15:50 | Submission Presentations                  |
+| 15:50 —16:15 | Group brainstorm - VIS in Sustainability  |
+| 16:15 —16:30 | Wrap-up discussion & next steps           |
 
 Details subject to change.
 
