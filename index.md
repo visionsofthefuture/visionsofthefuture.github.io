@@ -12,11 +12,13 @@ We invite you to join the [IEEEVIS 2024](https://ieeevis.org/year/2024/welcome) 
 
 ## Accepted Papers
 
-- Rain Gauge: Exploring the Design and Sustainability of 3D Printed Clay Physicalizations - Bridger Herman, Jessica Rossi-Mastracci, Heather Willy, Molly Reichert, Daniel F. Keef
-- Renewable Energy Data Visualization: A study with Open Data - Gustavo Santos Silva, Artur Lima Artur Vinícius Lima Silva, Lucas Pereira Souza, Adrian Lauzid, Davi Maia
-- (Almost) All Data is Absent Data - Karly Ross, Pratim Sengupta, Wesley Willett
-- Reimagining Data Visualization to Address Sustainability Goals - Narges Mahyar
-- Visual and Data Journalism as Tools for Fighting Climate Change - Emilly Brito, Nivan Ferreira
+(In alphabetical order)
+
+- [(Almost) All Data is Absent Data](./pdfs/absent-data.pdf) - Karly Ross, Pratim Sengupta, Wesley Willett
+- [Rain Gauge: Exploring the Design and Sustainability of 3D Printed Clay Physicalizations](./pdfs/rain-gauge.pdf) Bridger Herman, Jessica Rossi-Mastracci, Heather Willy, Molly Reichert, Daniel F. Keef
+- [Reimagining Data Visualization to Address Sustainability Goals](./pdfs/reimagining-data-vis.pdf) - Narges Mahyar
+- [Renewable Energy Data Visualization: A study with Open Data](./pdfs/renewable-energy.pdf) - Gustavo Santos Silva, Artur Lima Artur Vinícius Lima Silva, Lucas Pereira Souza, Adrian Lauzid, Davi Maia
+- [Visual and Data Journalism as Tools for Fighting Climate Change](./pdfs/vis-and-journalism.pdf) - Emilly Brito, Nivan Ferreira
 
 Submissions/abstracts to be posted soon! (After the camera ready deadline, **August 31, 2024**)
 
