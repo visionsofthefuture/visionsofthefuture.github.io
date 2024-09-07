@@ -10,6 +10,10 @@ We invite you to join the [IEEEVIS 2024](https://ieeevis.org/year/2024/welcome) 
 
 <img src="assets/img/keynote.png" width="500px">
 
+### Visualizing Post-growth Futures
+
+Neha Kumar is an Associate Professor at the School of Interactive Computing at Georgia Tech. Her research lies at the intersection of human-computer interaction and global development, with a focus on global health and community informatics. Her work contributes feminist perspectives to the design and integration of emerging technologies across marginalized contexts in the Global South. Her research has been recognized by multiple ACM Best Paper and Honorable Mention awards. She currently serves as the President of ACM SIGCHI and as the Chair of the ACM SIG Governing Board. She earned her Ph.D. in Information Management Systems from UC Berkeley, Master’s degrees in Computer Science and Education from Stanford University, and Bachelor’s in Computer Science and Applied Math from UC Berkeley.
+
 ## Accepted Papers
 
 (In alphabetical order)
