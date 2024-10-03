@@ -14,19 +14,7 @@ We invite you to join the [IEEEVIS 2024](https://ieeevis.org/year/2024/welcome) 
 
 Neha Kumar is an Associate Professor at the School of Interactive Computing at Georgia Tech. Her research lies at the intersection of human-computer interaction and global development, with a focus on global health and community informatics. Her work contributes feminist perspectives to the design and integration of emerging technologies across marginalized contexts in the Global South. Her research has been recognized by multiple ACM Best Paper and Honorable Mention awards. She currently serves as the President of ACM SIGCHI and as the Chair of the ACM SIG Governing Board. She earned her Ph.D. in Information Management Systems from UC Berkeley, Master’s degrees in Computer Science and Education from Stanford University, and Bachelor’s in Computer Science and Applied Math from UC Berkeley.
 
-## Accepted Papers
-
-(In alphabetical order)
-
-- [(Almost) All Data is Absent Data](./assets/pdfs/absent-data.pdf) - Karly Ross, Pratim Sengupta, Wesley Willett
-- [Rain Gauge: Exploring the Design and Sustainability of 3D Printed Clay Physicalizations](./assets/pdfs/rain-gauge.pdf) Bridger Herman, Jessica Rossi-Mastracci, Heather Willy, Molly Reichert, Daniel F. Keef
-- [Reimagining Data Visualization to Address Sustainability Goals](./assets/pdfs/reimagining-data-vis.pdf) - Narges Mahyar
-- [Renewable Energy Data Visualization: A study with Open Data](./assets/pdfs/renewable-energy.pdf) - Gustavo Santos Silva, Artur Lima Artur Vinícius Lima Silva, Lucas Pereira Souza, Adrian Lauzid, Davi Maia
-- [Visual and Data Journalism as Tools for Fighting Climate Change](./assets/pdfs/vis-and-journalism.pdf) - Emilly Brito, Nivan Ferreira
-
-Submissions/abstracts to be posted soon! (After the camera ready deadline, **August 31, 2024**)
-
-## Tentative Schedule
+## Schedule
 
 | Time         | Activity                                  |
 | ------------ | ----------------------------------------- |
@@ -38,7 +26,13 @@ Submissions/abstracts to be posted soon! (After the camera ready deadline, **Aug
 | 15:50 —16:15 | Group brainstorm - VIS in Sustainability  |
 | 16:15 —16:30 | Wrap-up discussion & next steps           |
 
-Details subject to change.
+Submission Presentation order
+
+- [Visual and Data Journalism as Tools for Fighting Climate Change](./assets/pdfs/vis-and-journalism.pdf) - Emilly Brito, Nivan Ferreira
+- [(Almost) All Data is Absent Data](./assets/pdfs/absent-data.pdf) - Karly Ross, Pratim Sengupta, Wesley Willett
+- [Rain Gauge: Exploring the Design and Sustainability of 3D Printed Clay Physicalizations](./assets/pdfs/rain-gauge.pdf) Bridger Herman, Jessica Rossi-Mastracci, Heather Willy, Molly Reichert, Daniel F. Keef
+- [Reimagining Data Visualization to Address Sustainability Goals](./assets/pdfs/reimagining-data-vis.pdf) - Narges Mahyar
+- [Renewable Energy Data Visualization: A study with Open Data](./assets/pdfs/renewable-energy.pdf) - Gustavo Santos Silva, Artur Lima Artur Vinícius Lima Silva, Lucas Pereira Souza, Adrian Lauzid, Davi Maia
 
 ## ~~Submission Details (submission past)~~
 
