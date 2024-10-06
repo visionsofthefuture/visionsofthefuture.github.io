@@ -30,7 +30,7 @@ Submission Presentation order
 
 - [Visual and Data Journalism as Tools for Fighting Climate Change](./assets/pdfs/vis-and-journalism.pdf) - Emilly Brito, Nivan Ferreira
 - [(Almost) All Data is Absent Data](./assets/pdfs/absent-data.pdf) - Karly Ross, Pratim Sengupta, Wesley Willett
-- [Rain Gauge: Exploring the Design and Sustainability of 3D Printed Clay Physicalizations](./assets/pdfs/rain-gauge.pdf) Bridger Herman, Jessica Rossi-Mastracci, Heather Willy, Molly Reichert, Daniel F. Keef
+- [Rain Gauge: Exploring the Design and Sustainability of 3D Printed Clay Physicalizations](./assets/pdfs/rain-gauge.pdf) Bridger Herman, Jessica Rossi-Mastracci, Heather Willy, Molly Reichert, Daniel F. Keefe
 - [Reimagining Data Visualization to Address Sustainability Goals](./assets/pdfs/reimagining-data-vis.pdf) - Narges Mahyar
 - [Renewable Energy Data Visualization: A study with Open Data](./assets/pdfs/renewable-energy.pdf) - Gustavo Santos Silva, Artur Lima Artur Vinícius Lima Silva, Lucas Pereira Souza, Adrian Lauzid, Davi Maia
 
