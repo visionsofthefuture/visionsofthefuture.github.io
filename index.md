@@ -18,13 +18,16 @@ Neha Kumar is an Associate Professor at the School of Interactive Computing at G
 
 | Time         | Activity                                  |
 | ------------ | ----------------------------------------- |
-| 13:35 —13:45 | Opening                                   |
-| 14:45 —14:30 | Keynote                                   |
-| 14:30 —14:45 | Group brainstorm - Sustainability for VIS |
-| 14:45 —15:15 | Coffee Break                              |
-| 15:15 —15:50 | Submission Presentations                  |
-| 15:50 —16:15 | Group brainstorm - VIS in Sustainability  |
-| 16:15 —16:30 | Wrap-up discussion & next steps           |
+| 12:00 —12:10 | Opening                                   |
+| 12:10 —12:50 | Keynote (30 minutes + 10 minutes QA )     |
+| 12:50 —13:25 | Submission Presentations                  |
+| 13:25 —13:40 | Coffee/Bio Break                          |
+| 13:40 —13:50 | Group activity intro                      |
+| 13:50 —14:20 | Group brainstorm - Sustainability for VIS |
+| 14:20 —14:50 | Group brainstorm - VIS in Sustainability  |
+| 14:50 —15:00 | Wrap-up discussion & next steps           |
+
+(Times are in Eastern/Florida time)
 
 Submission Presentation order
 
